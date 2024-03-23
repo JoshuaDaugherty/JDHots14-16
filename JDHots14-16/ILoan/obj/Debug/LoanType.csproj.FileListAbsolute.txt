@@ -1,0 +1,6 @@
+C:\Users\janic\Downloads\JDHots14-16\JDHots14-16\ILoan\bin\Debug\ILoan.dll
+C:\Users\janic\Downloads\JDHots14-16\JDHots14-16\ILoan\bin\Debug\ILoan.pdb
+C:\Users\janic\Downloads\JDHots14-16\JDHots14-16\ILoan\obj\Debug\LoanType.csproj.AssemblyReference.cache
+C:\Users\janic\Downloads\JDHots14-16\JDHots14-16\ILoan\obj\Debug\LoanType.csproj.CoreCompileInputs.cache
+C:\Users\janic\Downloads\JDHots14-16\JDHots14-16\ILoan\obj\Debug\ILoan.dll
+C:\Users\janic\Downloads\JDHots14-16\JDHots14-16\ILoan\obj\Debug\ILoan.pdb

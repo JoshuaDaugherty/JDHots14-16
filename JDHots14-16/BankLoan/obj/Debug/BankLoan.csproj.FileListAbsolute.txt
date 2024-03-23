@@ -1,0 +1,13 @@
+C:\Users\janic\Downloads\JDHots14-16\JDHots14-16\BankLoan\bin\Debug\BankLoan.exe.config
+C:\Users\janic\Downloads\JDHots14-16\JDHots14-16\BankLoan\bin\Debug\BankLoan.exe
+C:\Users\janic\Downloads\JDHots14-16\JDHots14-16\BankLoan\bin\Debug\BankLoan.pdb
+C:\Users\janic\Downloads\JDHots14-16\JDHots14-16\BankLoan\obj\Debug\BankLoan.csproj.AssemblyReference.cache
+C:\Users\janic\Downloads\JDHots14-16\JDHots14-16\BankLoan\obj\Debug\BankLoan.frmBankLoan.resources
+C:\Users\janic\Downloads\JDHots14-16\JDHots14-16\BankLoan\obj\Debug\BankLoan.Properties.Resources.resources
+C:\Users\janic\Downloads\JDHots14-16\JDHots14-16\BankLoan\obj\Debug\BankLoan.csproj.GenerateResource.cache
+C:\Users\janic\Downloads\JDHots14-16\JDHots14-16\BankLoan\obj\Debug\BankLoan.csproj.CoreCompileInputs.cache
+C:\Users\janic\Downloads\JDHots14-16\JDHots14-16\BankLoan\obj\Debug\BankLoan.exe
+C:\Users\janic\Downloads\JDHots14-16\JDHots14-16\BankLoan\obj\Debug\BankLoan.pdb
+C:\Users\janic\Downloads\JDHots14-16\JDHots14-16\BankLoan\bin\Debug\ILoan.dll
+C:\Users\janic\Downloads\JDHots14-16\JDHots14-16\BankLoan\bin\Debug\ILoan.pdb
+C:\Users\janic\Downloads\JDHots14-16\JDHots14-16\BankLoan\obj\Debug\BankLoan.csproj.CopyComplete
